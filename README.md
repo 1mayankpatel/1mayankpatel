@@ -4,6 +4,11 @@
 I'm a <b>Forever Software Engineer</b> and a <b>self-taught AI & Machine Learning Enthusias</b> who loves building useful things.
 </p>
 
+<p align="center">
+  <img src="https://github.com/1mayankpatel/1mayankpatel/blob/main/dev.png?raw=true" alt="developer at desk" width="400"/>
+</p>
+
+
 ### About me
 - 🔭 I’m currently working on **something cool**.
 - 📚 I’m learning **GraphQL** and **TensorFlow**.
