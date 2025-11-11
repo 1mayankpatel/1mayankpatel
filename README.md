@@ -1,7 +1,7 @@
 ## <h1 align="center">Hey! I'm <a href="https://github.com/1mayankpatel">Mayank Patel</a> 👋</h1>
 
 <p align="center">
-I'm a <b>Software Engineer</b> and a <b>self-taught AI & Machine Learning Enthusias</b> who loves building useful things.
+I'm a <b>Forever Software Engineer</b> and a <b>self-taught AI & Machine Learning Enthusias</b> who loves building useful things.
 </p>
 
 ### About me
