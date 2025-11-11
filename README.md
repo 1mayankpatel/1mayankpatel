@@ -36,7 +36,6 @@ I'm a <b>Software Engineer</b> and a <b>self-taught AI & Machine Learning Enthus
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
 </p>
 
-
 ### 📈 GitHub Analytics
 <p>
   <img alt="GitHub Stats" height="165"
