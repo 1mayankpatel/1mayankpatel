@@ -75,9 +75,7 @@ I'm a <b>Forever Software Engineer</b> and a <b>self-taught AI & Machine Learnin
 </p>
 
 ### 📊 Contribution Radar
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1mayankpatel/1mayankpatel/main/radar.svg" alt="GitHub contribution radar" width="320" />
-</p>
+![GitHub Metrics](https://raw.githubusercontent.com/1mayankpatel/1mayankpatel/github-metrics/metrics.plugin.habits.charts.svg)
 
 
 
