@@ -21,8 +21,6 @@ I'm a <b>Forever Software Engineer</b> and a <b>self-taught AI & Machine Learnin
 </p>
 
 ### 🧰 Languages and Tools
-## Languages and Tools
-
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -85,12 +83,6 @@ I'm a <b>Forever Software Engineer</b> and a <b>self-taught AI & Machine Learnin
     height="180"
   />
 </p>
-
-### 📊 Contribution Radar
-![GitHub Metrics](https://raw.githubusercontent.com/1mayankpatel/1mayankpatel/github-metrics/metrics.plugin.habits.charts.svg)
-
-
-
 
 ### 📊 GitHub Contribution Overview
 
