@@ -50,6 +50,31 @@ I'm a <b>Forever Software Engineer</b> and a <b>self-taught AI & Machine Learnin
        src="https://streak-stats.demolab.com?user=1mayankpatel&hide_border=true" />
 </p>
 
+### 📊 Contribution Activity Overview
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1mayankpatel&theme=default"
+    height="180"
+  /> 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1mayankpatel&theme=default"
+    height="180"
+  /> 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1mayankpatel&theme=default"
+    height="180"
+  /> 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1mayankpatel&theme=default"
+    height="180"
+  /> 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1mayankpatel&theme=default"
+    height="180"
+  />
+</p>
+
+
 ### 📊 GitHub Contribution Overview
 
 <p align="center">
