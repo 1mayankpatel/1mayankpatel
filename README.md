@@ -74,6 +74,19 @@ I'm a <b>Forever Software Engineer</b> and a <b>self-taught AI & Machine Learnin
   />
 </p>
 
+### 📊 GitHub Contribution Radar
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1mayankpatel&theme=default" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1mayankpatel&theme=default" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1mayankpatel&theme=default" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1mayankpatel&show_icons=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=1mayankpatel&theme=default&hide_border=true" height="180"/>
+</p>
+
 
 ### 📊 GitHub Contribution Overview
 
