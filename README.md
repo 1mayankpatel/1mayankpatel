@@ -5,7 +5,7 @@ I'm a <b>Forever Software Engineer</b> and a <b>self-taught AI & Machine Learnin
 </p>
 
 <p align="center">
-  <img src="https://github.com/1mayankpatel/1mayankpatel/blob/main/dev.png?raw=true" alt="developer at desk" width="400"/>
+  <img src="https://github.com/1mayankpatel/1mayankpatel/blob/main/ai-dev.webp?raw=true" alt="developer at desk" width="400"/>
 </p>
 
 
